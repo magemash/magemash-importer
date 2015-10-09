@@ -18,7 +18,7 @@ class CategoryCommand extends Command
     protected function configure()
     {
         $this
-            ->setName('magemash:url')
+            ->setName('magemash:category')
             ->addArgument('filename', InputArgument::REQUIRED, 'The filename of the csv')
         ;
     }
