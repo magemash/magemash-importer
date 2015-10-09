@@ -10,7 +10,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 /**
  */
-class UrlCommand extends Command
+class CategoryCommand extends Command
 {
     /**
      *
